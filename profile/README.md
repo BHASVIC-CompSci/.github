@@ -22,12 +22,10 @@ https://github.com/organizations/BHASVIC-CompSci/repositories/new
 Each repository needs to follow the pattern of '{CollegeUsername}-{What the repository is for}, EG: "bsanders-CChapters" (Write your username in without the dot). Repositories must have your username written beforehand for our system to recognise them. Please make sure that **repository names are sensible** to help you and us identify what they're for (not "Code" or "andjksadjsakjd").
 
 #### Tutorials
-Before starting please watch and follow the instructions in this tutorial video - [https://www.freecodecamp.org/news/git-and-github-crash-course/](https://www.youtube.com/watch?v=RGOj5yH7evk)
+Before starting please watch and follow the instructions in this tutorial video - https://youtu.be/ci3W1T88mzw
 
 You can view the full github documentation [here](https://docs.github.com/en) for tutorials on how to get started, and can find the Hello World project [here](https://docs.github.com/en/get-started/quickstart/hello-world).
 
  Don't worry about getting too in depth with things like branches and merges at the start, as long as you know how to create repositories and use them locally. The easiest way to do this is with [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
-
-Github Desktop video tutorial: https://youtu.be/ci3W1T88mzw
 
 ![RouterCat](https://user-images.githubusercontent.com/117088088/199063633-6460322c-0f03-4dc6-9cf2-282b245dcaa2.png)
