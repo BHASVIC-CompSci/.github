@@ -21,6 +21,12 @@ https://github.com/organizations/BHASVIC-CompSci/repositories/new
 
 Each repository needs to follow the pattern of '{CollegeUsername}-{What the repository is for}, EG: "bsanders-CChapters" (Write your username in without the dot). Repositories must have your username written beforehand for our system to recognise them. Please make sure that **repository names are sensible** to help you and us identify what they're for (not "Code" or "andjksadjsakjd").
 
+####
+Tips for repositories
+- Create your repository in the same folder your project is currently in, it'll then automatically all your existing files
+- When making a new repository there's an option for .git-ignore, make sure to use this! Just choose the language your project is in (e.g. unity)
+- If your repository is in the wrong place you can fix this by copying and pasting the .git file and folder (which is hidden) into the right place, more details here https://stackoverflow.com/questions/11384928/change-git-repository-directory-location
+
 #### Tutorials
 Before starting please watch and follow the instructions in this tutorial video - https://youtu.be/ci3W1T88mzw
 
