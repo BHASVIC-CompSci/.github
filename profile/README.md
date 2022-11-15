@@ -4,16 +4,16 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 
 > WIP document, this will be continually added to over the next few weeks
 
-#### Getting started
+### Getting started
 
 Here is information for you on how to use Github in college. Please **read the information below carefully** as it may differ from what you've done before. Following this is important to make sure we can maintain your accounts.
 
-#### Username / Repository names
+### Username / Repository names
 
-##### Username
+#### Username
 Please make sure your username fits the pattern of 'BHASVIC-{CollegeUsername}, EG: BHASVIC-JonathanAnderson21 (Write your username in without the dot). We need this written exactly in this format so check it carefully. If you need to change it you can find the change username button here: https://github.com/settings/admin
 
-##### Naming repositories
+#### Naming repositories
 
 Firstly make sure you are making the repository inside the BHASVIC org and not on your personal profile. This means your teacher will be able to access it without you having to invite them individually and you can easily invite team members to work with. You can find a direct link to do that here:
 https://github.com/organizations/BHASVIC-CompSci/repositories/new
@@ -21,13 +21,12 @@ https://github.com/organizations/BHASVIC-CompSci/repositories/new
 
 Each repository needs to follow the pattern of '{CollegeUsername}-{What the repository is for}, EG: "bsanders-CChapters" (Write your username in without the dot). Repositories must have your username written beforehand for our system to recognise them. Please make sure that **repository names are sensible** to help you and us identify what they're for (not "Code" or "andjksadjsakjd").
 
-####
-Tips for repositories
+### Tips for repositories
 - Create your repository in the same folder your project is currently in, it'll then automatically all your existing files
 - When making a new repository there's an option for .git-ignore, make sure to use this! Just choose the language your project is in (e.g. unity)
 - If your repository is in the wrong place you can fix this by copying and pasting the .git file and folder (which is hidden) into the right place, more details here https://stackoverflow.com/questions/11384928/change-git-repository-directory-location
 
-#### Tutorials
+### Tutorials
 Before starting please watch and follow the instructions in this tutorial video - https://youtu.be/ci3W1T88mzw
 
 You can view the full github documentation [here](https://docs.github.com/en) for tutorials on how to get started, and can find the Hello World project [here](https://docs.github.com/en/get-started/quickstart/hello-world).
