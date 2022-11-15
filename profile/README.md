@@ -11,12 +11,11 @@ Here is information for you on how to use Github in college. Please **read the i
 ### Username / Repository names
 
 #### Username
-Please make sure your username fits the pattern of 'BHASVIC-{CollegeUsername}, EG: BHASVIC-JonathanAnderson21 (Write your username in without the dot). We need this written exactly in this format so check it carefully. If you need to change it you can find the change username button here: https://github.com/settings/admin
+Please make sure your username fits the pattern of 'BHASVIC-{CollegeUsername}, EG: BHASVIC-JonathanAnderson21 (Write your username in without the dot). We need this written exactly in this format so check it carefully. If you need to change it you can find the change username button [here](https://github.com/settings/admin)
 
 #### Naming repositories
 
-Firstly make sure you are making the repository inside the BHASVIC org and not on your personal profile. This means your teacher will be able to access it without you having to invite them individually and you can easily invite team members to work with. You can find a direct link to do that here:
-https://github.com/organizations/BHASVIC-CompSci/repositories/new
+Firstly make sure you are making the repository inside the BHASVIC org and not on your personal profile. This means your teacher will be able to access it without you having to invite them individually and you can easily invite team members to work with. You can find a direct link to do that [here](https://github.com/organizations/BHASVIC-CompSci/repositories/new)
 
 
 Each repository needs to follow the pattern of '{CollegeUsername}-{What the repository is for}, EG: "bsanders-CChapters" (Write your username in without the dot). Repositories must have your username written beforehand for our system to recognise them. Please make sure that **repository names are sensible** to help you and us identify what they're for (not "Code" or "andjksadjsakjd").
@@ -24,10 +23,10 @@ Each repository needs to follow the pattern of '{CollegeUsername}-{What the repo
 ### Tips for repositories
 - Create your repository in the same folder your project is currently in, it'll then automatically add all your existing files
 - When making a new repository there's an option for .gitignore, make sure to use this! Just choose the language your project is in (e.g. unity)
-- If your repository is in the wrong place you can fix this by copying and pasting the .git file and folder (which is hidden) into the right place, more details here https://stackoverflow.com/questions/11384928/change-git-repository-directory-location
+- If your repository is in the wrong place you can fix this by copying and pasting the .git file and folder (which is hidden) into the right place, more details [here](https://stackoverflow.com/questions/11384928/change-git-repository-directory-location)
 
 ### Tutorials
-Before starting please watch and follow the instructions in this tutorial video - https://youtu.be/ci3W1T88mzw
+Before starting please watch and follow the instructions in this [tutorial video](https://youtu.be/ci3W1T88mzw)
 
 For details on how github works overall, an overview of what you need to know and step by step instructions see [Tim's Quick and Dirty Github Guide](https://bhasvic.sharepoint.com/:b:/s/BHA_Subjects_CSC/EVP8CAnDv7JDjCWpo6lepxIBf4STZ8b24-5bvfcQPwzZkw?e=Gb2Sfm) 
 
