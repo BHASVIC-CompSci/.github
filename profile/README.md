@@ -29,6 +29,8 @@ Each repository needs to follow the pattern of '{CollegeUsername}-{What the repo
 ### Tutorials
 Before starting please watch and follow the instructions in this tutorial video - https://youtu.be/ci3W1T88mzw
 
+For details on how github works overall, an overview of what you need to know and step by step instructions see [Tim's Quick and Dirty Github Guide](https://bhasvic.sharepoint.com/:b:/s/BHA_Subjects_CSC/EVP8CAnDv7JDjCWpo6lepxIBf4STZ8b24-5bvfcQPwzZkw?e=Gb2Sfm) 
+
 You can view the full github documentation [here](https://docs.github.com/en) for tutorials on how to get started, and can find the Hello World project [here](https://docs.github.com/en/get-started/quickstart/hello-world).
 
  Don't worry about getting too in depth with things like branches and merges at the start, as long as you know how to create repositories and use them locally. The easiest way to do this is with [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
