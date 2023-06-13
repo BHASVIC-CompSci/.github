@@ -1,12 +1,36 @@
 ## Hi there 👋
+## Gitting good at Github
 
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
 > WIP document, this will be continually added to over the next few weeks
 
+### Contents
+- [Signing up](Guides/signingUp.md)
+- [Making a repo](Guides/makingRepo.md)
+- [Checking out](Guides/checkingOut.md)
+- [Pushing](Guides/pushing.md)
+- [Cloning](Guides/cloning.md)
+- [Renaming](Guides/renaming.md)
+- [Rolling back](Guides/rollingBack.md)
+- [.gitignore](Guides/gitignore.md)
+- [Features to not use](Guides/featuresNotUse.md)
+
+### Troubleshooting
+- [Files too large to push](Guides/filesTooLarge.md)
+- [Forgot to push](Guides/forgotPush.md)
+- [Files on personal account](Guides/personalAccount.md)
+
+
+<!--->
+### Old
+
 ### Getting started
 
 Here is information for you on how to use Github in college. Please **read the information below carefully** as it may differ from what you've done before. Following this is important to make sure we can maintain your accounts.
+
+### Test links
+[Checking out](Guides/checkingOut.md)
 
 ### Username / Repository names
 
@@ -33,5 +57,7 @@ For details on how github works overall, an overview of what you need to know an
 You can view the full github documentation [here](https://docs.github.com/en) for tutorials on how to get started, and can find the Hello World project [here](https://docs.github.com/en/get-started/quickstart/hello-world).
 
  Don't worry about getting too in depth with things like branches and merges at the start, as long as you know how to create repositories and use them locally. The easiest way to do this is with [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
+
+--->
 
 ![RouterCat](https://user-images.githubusercontent.com/117088088/199063633-6460322c-0f03-4dc6-9cf2-282b245dcaa2.png)
