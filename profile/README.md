@@ -8,18 +8,17 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 ### Contents
 - [Signing up](Guides/signingUp.md)
 - [Making a repo](Guides/makingRepo.md)
-- [Checking out](Guides/checkingOut.md)
-- [Pushing](Guides/pushing.md)
 - [Cloning](Guides/cloning.md)
+- [Pushing](Guides/pushing.md)
 - [Renaming](Guides/renaming.md)
 - [Rolling back](Guides/rollingBack.md)
 - [.gitignore](Guides/gitignore.md)
 - [Features to not use](Guides/featuresNotUse.md)
 
 ### Troubleshooting
-- [Files too large to push](Guides/filesTooLarge.md)
-- [Forgot to push](Guides/forgotPush.md)
-- [Files on personal account](Guides/personalAccount.md)
+- [Files too large to push](Troubleshooting/filesTooLarge.md)
+- [Forgot to push](Troubleshooting/forgotPush.md)
+- [Files on personal account](Troubleshooting/personalAccount.md)
 
 
 <!--->

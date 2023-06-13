@@ -3,11 +3,16 @@
 # Making a Repository
 
 ## What is a Repository?
+A repository is where you store your code. You can upload entire projects in one place and it'll keep your file and folder structure. This means you can access it in multiple places.
 
-A repository is a place where you can store your code. It is a folder that contains all of your code and files. You can create a repository on your computer, or you can create one on GitHub. If you create a repository on GitHub, you can then clone it to your computer. Cloning a repository means that you are copying the repository from GitHub to your computer. You can then make changes to the repository on your computer and push those changes to GitHub.
+When setting up a repository you can tailor it towards a particular language or framework (e.g. Unity) which means it will avoid some system files you don't need. This makes it a lot simpler than using something like onedrive.
+
+Follow this guide carefully to help you make your repository. You'll only need to do this once at the start of a new project.
 
 ## Creating a Repository on GitHub
 
-To create a repository in the BHASVIC organization, you can create a repository by clicking on the green "New" button on the [BHASVIC organization reposoitory page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username followed by the name of your project. EG
+1. 
+
+To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization reposoitory page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username followed by the name of your project. EG
     
     MichealAngelo23-NewProject
