@@ -28,6 +28,10 @@ doc/*.txt
 
 For people using unity for their projects, you should use githubs built in unity gitignore file. You can find it [here](https://github.com/github/gitignore/blob/main/Unity.gitignore).
 
-## Video tutorial
+## Tutorials
 
+![gitignore](../Media/ignored.gif)
+
+
+#### Youtube video:
 [![gitignore](https://img.youtube.com/vi/0WfDe51pUU0/0.jpg)](https://www.youtube.com/watch?v=0WfDe51pUU0)
