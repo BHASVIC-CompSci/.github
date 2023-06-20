@@ -3,9 +3,8 @@
 
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
-> WIP document, this will be continually added to over the next few weeks
-
 ### Contents
+- [What is github?](Guides/whatIsGithub.md)
 - [Signing up](Guides/signingUp.md)
 - [Making a repo](Guides/makingRepo.md)
 - [Cloning](Guides/cloning.md)
@@ -16,9 +15,9 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 - [Features to not use](Guides/featuresNotUse.md)
 
 ### Troubleshooting
-- [Files too large to push](Troubleshooting/filesTooLarge.md)
+<!---- [Files too large to push](Troubleshooting/filesTooLarge.md)--->
 - [Forgot to push](Troubleshooting/forgotPush.md)
-- [Files on personal account](Troubleshooting/personalAccount.md)
+- [Project on personal account](Troubleshooting/personalAccount.md)
 
 
 <!--->
