@@ -1,4 +1,4 @@
-*[Home](../README.md) > [gitignore](./gitignore.md)*
+*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [gitignore](./gitignore.md)*
 
 ## gitignore
 

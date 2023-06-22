@@ -1,4 +1,4 @@
-*[Home](../README.md) > [Checking Out](pulling.md)*
+*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Checking Out](pulling.md)*
 
 ---
 

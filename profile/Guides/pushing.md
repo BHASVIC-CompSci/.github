@@ -1,4 +1,4 @@
-*[Home](../README.md) > [Pushing](./pushing.md)*
+*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Pushing](./pushing.md)*
 
 ## Pushing to github
 

@@ -5,20 +5,20 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 
 ### Contents
 - [What is github?](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/cloning.md)
-- [Signing up](.../profile/Guides/signingUp.md)
-- [Making a repo](.../profile/Guides/makingRepo.md)
-- [Pushing](.../profile/Guides/pushing.md)
-- [Pulling](.../profile/Guides/pulling.md)
-- [Cloning](.../profile/Guides/cloning.md)
-- [Renaming](.../profile/Guides/renaming.md)
-- [Rolling back](.../profile/Guides/rollingBack.md)
-- [.gitignore](.../profile/Guides/gitignore.md)
-- [Features to not use](.../profile/Guides/featuresNotUse.md)
+- [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
+- [Making a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/makingRepo.md)
+- [Pushing](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pushing.md)
+- [Pulling](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pulling.md)
+- [Cloning](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/cloning.md)
+- [Renaming](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/renaming.md)
+- [Rolling back](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/rollingBack.md)
+- [.gitignore](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/gitignore.md)
+- [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
 
 ### Troubleshooting
-- [Forgot to push](.../profile/Troubleshooting/forgotPush.md)
-- [Project on personal account](.../profile/Troubleshooting/personalAccount.md)
-- [Files too large to push](.../profile/Troubleshooting/filesTooLarge.md)
+- [Forgot to push](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/forgotPush.md)
+- [Project on personal account](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/personalAccount.md)
+- [Files too large to push](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/filesTooLarge.md)
 
 
 <!--

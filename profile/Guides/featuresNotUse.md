@@ -1,4 +1,4 @@
-[Home](../README.md) > [Features not used](./featuresNotUse.md)
+[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Features not used](./featuresNotUse.md)
 
 ---
 
