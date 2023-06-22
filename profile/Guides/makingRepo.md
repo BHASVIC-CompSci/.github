@@ -11,9 +11,10 @@ Follow this guide carefully to help you make your repository. You'll only need t
 
 ## Creating a Repository on GitHub
 
-1. To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization reposoitory page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username followed by the name of your project. EG
+1. To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization reposoitory page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username, then a dash and your teachers name, then a dash followed by the name of your project. EG
     
-    MichealAngelo23-NewProject
+    MichealAngelo23-Laura-UnityProject
+    MarieCurie23-Tim-CTasks
 
 ## Tutorial
 
