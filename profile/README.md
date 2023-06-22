@@ -4,21 +4,21 @@
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
 ### Contents
-- [What is github?](Guides/whatIsGithub.md)
-- [Signing up](Guides/signingUp.md)
-- [Making a repo](Guides/makingRepo.md)
-- [Pushing](Guides/pushing.md)
-- [Pulling](Guides/pulling.md)
-- [Cloning](Guides/cloning.md)
-- [Renaming](Guides/renaming.md)
-- [Rolling back](Guides/rollingBack.md)
-- [.gitignore](Guides/gitignore.md)
-- [Features to not use](Guides/featuresNotUse.md)
+- [What is github?](profile/Guides/whatIsGithub.md)
+- [Signing up](profile/Guides/signingUp.md)
+- [Making a repo](profile/Guides/makingRepo.md)
+- [Pushing](profile/Guides/pushing.md)
+- [Pulling](profile/Guides/pulling.md)
+- [Cloning](profile/Guides/cloning.md)
+- [Renaming](profile/Guides/renaming.md)
+- [Rolling back](profile/Guides/rollingBack.md)
+- [.gitignore](profile/Guides/gitignore.md)
+- [Features to not use](profile/Guides/featuresNotUse.md)
 
 ### Troubleshooting
-- [Forgot to push](Troubleshooting/forgotPush.md)
-- [Project on personal account](Troubleshooting/personalAccount.md)
-- [Files too large to push](Troubleshooting/filesTooLarge.md)
+- [Forgot to push](profile/Troubleshooting/forgotPush.md)
+- [Project on personal account](profile/Troubleshooting/personalAccount.md)
+- [Files too large to push](profile/Troubleshooting/filesTooLarge.md)
 
 
 <!--
