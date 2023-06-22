@@ -1,4 +1,4 @@
-*[Home](../README.md) > [Signing Up](./personalAccount.md)*
+*[Home](../README.md) > [Used Personal Account](./personalAccount.md)*
 
 ---
 

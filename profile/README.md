@@ -4,7 +4,7 @@
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
 ### Contents
-- [What is github?](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/cloning.md)
+- [What is github?](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/whatIsGithub.md)
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
 - [Making a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/makingRepo.md)
 - [Pushing](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pushing.md)
