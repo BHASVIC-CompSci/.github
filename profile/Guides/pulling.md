@@ -12,4 +12,4 @@ If you've made changes on a different computer you'll want to pull those changes
 2. It'll say "pull" at the top where you previously pushed your code, click this
 3. Wait for it to download and then start working
 
-### Video link
+![Pulling using the GUI](../Media/pulling.gif)

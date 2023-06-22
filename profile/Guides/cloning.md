@@ -12,4 +12,4 @@ Cloning gives you a copy of your repository on the computer you're using. You'll
 2. Click the green code<> button and then download with github desktop, your browser might ask you if it's ok to open it first
 3. Follow the prompt in github desktop - make sure to pick an appropriate folder within your user documents so it's stored within your windows account and not accessible to others using the PC
 
-### Video link
+![Cloning using the GUI](../Media/clone.gif)

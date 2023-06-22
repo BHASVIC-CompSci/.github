@@ -9,8 +9,9 @@ If you want to access a previous version of your code you can get access to any 
 
 ### What to do
 1. Open the repository on github desktop
-2. Click on where it says "commits", there'll be a number before it showing how many you have
-3. Click the <> button on the right hand side and you'll see the repository
-4. Pull it as normal
+2. Click the history button on the top bar
+3. Find the commit you want to go back to and click the arrow on the right hand side
+4. Click revert changes in this commit
 
-### Video link
+![Rolling back using the GUI](../Media/rollingBack.gif)
+
