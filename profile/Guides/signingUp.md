@@ -9,7 +9,7 @@ To use github you'll need to create an account using your bhasvic email and join
 
 ### What to do
 #### Creating your account
-Watch the following video and make sure to follow it carefully. Skipping a step can make everything go wrong
+Watch the following video and make sure to follow it carefully. Skipping a step can make everything go wrong. You'll need to have been sent an invite first, don't try to set up before your teacher has told you to do so.
 
 [![Creating an account](../Media/icon.png)](https://youtu.be/jk9GZQeyiZI "Youtube Video")
 
