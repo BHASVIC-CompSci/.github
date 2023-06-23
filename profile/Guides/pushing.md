@@ -3,8 +3,11 @@
 ## Pushing to github
 
 ### What does pushing mean?
+Pushing is uploading your recent work (also called commits) to github so it's centrally stored and can be accessed from other computers. 
 
-Pushing is the process of sending your local changes to the remote repository. This means that your changes are now available to everyone else and you can access them from any device.
+This also adds your code as previous version you can read to see your past work.
+
+This can be done when you're finished working and want to carry on at another computer, or just when you've done a significant piece of work you'd like to create a version of.
 
 ### How do I push?
 1. Open github desktop and select the repository you're working on from the top left
