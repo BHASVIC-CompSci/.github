@@ -11,7 +11,7 @@ To use github you'll need to create an account using your bhasvic email and join
 #### Creating your account
 Watch the following video and make sure to follow it carefully. Skipping a step can make everything go wrong. You'll need to have been sent an invite first, don't try to set up before your teacher has told you to do so.
 
-[![Creating an account](../Media/icon.png)](https://youtu.be/jk9GZQeyiZI "Youtube Video")
+[![Creating an account](../Media/signUpVideoLink.png)](https://youtu.be/jk9GZQeyiZI "Youtube Video")
 
 #### Installing github desktop
 We'll be using github desktop while in college, whilst you can integrate it with a range of IDEs we request you use github desktop and that's the software we'll support you with.
