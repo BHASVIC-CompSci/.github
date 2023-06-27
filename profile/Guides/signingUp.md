@@ -11,6 +11,8 @@ To use github you'll need to create an account using your bhasvic email and join
 #### Creating your account
 Watch the following video and make sure to follow it carefully. Skipping a step can make everything go wrong. You'll need to have been sent an invite first, don't try to set up before your teacher has told you to do so.
 
+Make sure your username is in the correct format of BHASVIC-*your username* e.g. `BHASVIC-VincentVanGogh22`
+
 [![Creating an account](../Media/signUpVideoLink.png)](https://youtu.be/jk9GZQeyiZI "Youtube Video")
 
 #### Installing github desktop
