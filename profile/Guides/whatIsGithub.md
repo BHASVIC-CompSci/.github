@@ -18,6 +18,7 @@ The main terms you'll need are:
 - Pulling - Getting the latest version of your work
 - Cloning - Making a copy of your work
 - Repository - The project you're working on, both stored locally (on each machine you're working on) and remotely (on github)
+- Staging - Choosing files to be committed
 
 ![Github overview diagram](../Media/githubOverview.png)
 
