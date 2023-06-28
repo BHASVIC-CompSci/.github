@@ -18,6 +18,7 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 ### Troubleshooting
 - [Forgot to push](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/forgotPush.md)
 - [Cloned to wrong folder](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/moveLocalRepository.md)
+- [Changing username](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/changeUsername.md)
 - [Files too large to push](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/filesTooLarge.md)
 - [Project on personal account](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/personalAccount.md)
 
