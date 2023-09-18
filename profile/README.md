@@ -6,6 +6,7 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 ### Contents
 - [What is github?](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/whatIsGithub.md)
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
+- [Using Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
 - [Making a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/makingRepo.md)
 - [Pushing](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pushing.md)
 - [Pulling](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pulling.md)
