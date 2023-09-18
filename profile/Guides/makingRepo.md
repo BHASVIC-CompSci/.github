@@ -11,10 +11,17 @@ Follow this guide carefully to help you make your repository. You'll only need t
 
 ## Creating a Repository on GitHub
 
-1. To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization reposoitory page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username, then a dash and your teachers name, then a dash followed by the name of your project. EG
-    
-`MichealAngelo23-Laura-UnityProject`
-`MarieCurie23-Tim-CTasks`
+1. Under **owner** select `BHASVIC-CompSci` 
+
+1. To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization reposoitory page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username, then a dash and your teachers name, then a dash followed by the name of your project. EG `MichealAngelo23-Laura-UnityProject` or`MarieCurie23-Tim-CTasks`
+
+1. Click **Add a README file**
+
+1. Click **Add .gitignore** then select the language you're using
+
+1. Click **create repository**
+
+1. Next you'll need to [clone](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/cloning.md) it
 
 ## Tutorial
 
