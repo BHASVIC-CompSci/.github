@@ -3,10 +3,13 @@
 
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
-### Contents
+### Intro
 - [What is github?](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/whatIsGithub.md)
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
-- [Using Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
+- [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
+
+
+### How To Guides
 - [Making a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/makingRepo.md)
 - [Pushing](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pushing.md)
 - [Pulling](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/pulling.md)
@@ -14,7 +17,11 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 - [Renaming](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/renaming.md)
 - [Rolling back](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/rollingBack.md)
 - [.gitignore](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/gitignore.md)
-- [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
+
+
+### A1 - Using Github for C
+- [Using Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
+
 
 ### Troubleshooting
 - [Forgot to push](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Troubleshooting/forgotPush.md)
