@@ -1,4 +1,4 @@
-*[Home](../README.md) > [Files Too Large](./filesTooLarge.md)*
+*[Home](../README.md) > [Changing Username](./changeUsername.md)*
 
 ---
 
@@ -6,6 +6,8 @@
 You might need to change your username at some point, for example if you didn't set it up correctly when creating your account.
 
 If you need to do it follow the steps below. Be careful as github as both a **display name** and **username** which are different, make sure you're changing the correct one.
+
+Make sure your username is in the correct format of BHASVIC-*your username* e.g. `BHASVIC-VincentVanGogh22`
 
 ### What to do
 1. Open your settings by clicking your profile picture in the top right then selecting settings
