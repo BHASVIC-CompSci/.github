@@ -17,7 +17,7 @@ Please make sure to read through the other sections of the guide to understand G
 
 
 ### Using Github in Class for C
-1. Open Github Classroom
+1. Open Github Desktop
 1. If you’ve worked at home, press [pull](pulling.md) to get your latest code
 1. Do your work
 1. [Commit and push](pushing.md) it at the end of the lesson
