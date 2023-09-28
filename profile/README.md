@@ -70,11 +70,10 @@ You can view the full github documentation [here](https://docs.github.com/en) fo
  Don't worry about getting too in depth with things like branches and merges at the start, as long as you know how to create repositories and use them locally. The easiest way to do this is with [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop).
 
 -->
-
-            
-            
-            
-            
-            
-            
+<br />  
+        <br />  
+        <br />  
+        <br />  
+        <br />  
+        <br />  
 ![RouterCat](https://user-images.githubusercontent.com/117088088/199063633-6460322c-0f03-4dc6-9cf2-282b245dcaa2.png)
