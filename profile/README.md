@@ -8,7 +8,7 @@ Welcome to the BHASVIC computer science org, remember to sign in to view your fi
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
 - [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
 
-<img align="right" src="Media/githubFlowchart.png">
+<img align="right" src="https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Media/githubFlowchart.png">
 
 ### How To Guides
 - [Making a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/makingRepo.md)
