@@ -3,7 +3,7 @@
 
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
-<span><img src="./aligner.png" height=50 width=150 /></span> <!--invisible-->
+<span><img src="./aligner.png" height=50 width=150 /></span>
 <img align="right" src="https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Media/githubFlowchart.png">
 
 ### Intro
@@ -72,4 +72,6 @@ You can view the full github documentation [here](https://docs.github.com/en) fo
 
 -->
 
+<br/>
+<br/>
 ![RouterCat](https://user-images.githubusercontent.com/117088088/199063633-6460322c-0f03-4dc6-9cf2-282b245dcaa2.png)
