@@ -13,7 +13,7 @@ Follow this guide carefully to help you make your repository. You'll only need t
 
 1. Under **owner** select `BHASVIC-CompSci` 
 
-1. To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization repository page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be the your username, then a dash and your teachers name, then a dash followed by the name of your project. EG `MichealAngelo23-Laura-UnityProject` or`MarieCurie23-Tim-CTasks`
+1. To create a repository in the BHASVIC organization, use the green "New" button on the [BHASVIC organization repository page](https://github.com/orgs/BHASVIC-CompSci/repositories). The repository name should be your username, then a dash and your teachers name, then a dash followed by the name of your project. EG `MichealAngelo23-Laura-UnityProject` or`MarieCurie23-Tim-CTasks`
 
 1. Click **Add a README file**
 
