@@ -9,6 +9,7 @@ Use this guide to help get used to github for the first time when doing your C C
 
 Please make sure to read through the other sections of the guide to understand Github better too.
 
+
 ### Setting up Github for C First Time - New Folder without Existing Files
 1. [Create your repository](makingRepo.md) on the github website **making sure to select C in the [.gitignore](gitignore.md) field** and also **making sure you name it appropriately**
 1. [Clone](cloning.md) the repository using github desktop, save it somewhere in your user directory into a **new folder** e.g. `C:\Users\Ben\Computer Science\C Chapters`, this doesn't need to be named the same name as your repository
