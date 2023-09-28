@@ -3,6 +3,7 @@
 
 Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
 
+<span><img src="./aligner.png" height=50 width=150 /></span> <!--invisible-->
 <img align="right" src="https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Media/githubFlowchart.png">
 
 ### Intro
