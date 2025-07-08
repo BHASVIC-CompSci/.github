@@ -15,5 +15,5 @@ Once you've cloned for the first time you don't need to do so again on the same 
 3. Follow the prompt in github desktop - make sure to pick an appropriate folder within your user documents so it's stored within your windows account and not accessible to others using the PC. 
 This needs to be your user folder on the harddrive e.g. `C:\Users\Ben\Computer Science\GitHub`. To avoid issues you must **not use OneDrive**.
 
-https://github.com/BHASVIC-CompSci/.github/blob/UpdateGithubGuides/profile/Media/clone.mp4
+https://github.com/user-attachments/assets/7d763fc8-857d-47f7-92a8-d18bfdc3b605
 
