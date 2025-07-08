@@ -15,4 +15,6 @@ Once you've cloned for the first time you don't need to do so again on the same 
 3. Follow the prompt in github desktop - make sure to pick an appropriate folder within your user documents so it's stored within your windows account and not accessible to others using the PC. 
 This needs to be your user folder on the harddrive e.g. `C:\Users\Ben\Computer Science\GitHub`. To avoid issues you must **not use OneDrive**.
 
-![Cloning using the GUI](../Media/clone.mp4)
+<video width="320" height="240" controls>
+  <source src="../Media/clone.mp4" type="video/mp4">
+</video>
