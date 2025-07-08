@@ -25,4 +25,5 @@ Follow this guide carefully to help you make your repository. You'll only need t
 
 ## Tutorial
 
-![Making a repository](../Media/createRepo.mp4)
+https://github.com/user-attachments/assets/3af95e87-496b-45dd-9dae-aae27f680517
+
