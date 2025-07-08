@@ -30,7 +30,7 @@ For people using unity for their projects, you should use githubs built in unity
 
 ## Tutorials
 
-![gitignore](../Media/ignored.gif)
+![gitignore](../Media/Gitignore.mp4)
 
 
 #### Youtube video:

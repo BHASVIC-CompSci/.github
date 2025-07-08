@@ -13,7 +13,7 @@ Watch the following video and make sure to follow it carefully. Skipping a step 
 
 Make sure your username is in the correct format of BHASVIC-*your username* e.g. `BHASVIC-VincentVanGogh22`
 
-[![Creating an account](../Media/signUpVideoLink.png)](https://youtu.be/jk9GZQeyiZI "Youtube Video")
+[![Creating an account](../Media/githubSignup.mp4)](https://youtu.be/jk9GZQeyiZI "Youtube Video")
 
 #### Installing github desktop
 We'll be using github desktop while in college, whilst you can integrate it with a range of IDEs we request you use github desktop and that's the software we'll support you with.

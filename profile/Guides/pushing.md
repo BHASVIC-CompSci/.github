@@ -17,4 +17,4 @@ This can be done when you're finished working and want to carry on at another co
 
 ### Video Guide
 
-![Pushing using the GUI](../Media/saving.gif)
+![Pushing using the GUI](../Media/commitPush.mp4)

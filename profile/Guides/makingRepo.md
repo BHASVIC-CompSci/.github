@@ -25,4 +25,4 @@ Follow this guide carefully to help you make your repository. You'll only need t
 
 ## Tutorial
 
-![Making a repository](../Media/makingRepo.gif)
+![Making a repository](../Media/createRepo.mp4)

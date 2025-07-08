@@ -21,4 +21,4 @@ eg
 
 ### Video guide
 
-![Renaming a repository](../Media/renaming.gif)
+![Renaming a repository](../Media/renaming.mp4)
