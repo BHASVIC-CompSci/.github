@@ -21,4 +21,5 @@ eg
 
 ### Video guide
 
-![Renaming a repository](../Media/renaming.mp4)
+https://github.com/user-attachments/assets/74b843f1-6961-43a0-adf3-456e787520aa
+
