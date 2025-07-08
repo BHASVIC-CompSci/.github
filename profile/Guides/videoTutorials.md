@@ -1,4 +1,4 @@
-*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Video Tutorials](./signingUp.md)*
+*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Video Tutorials](./videoTutorials.md)*
 
 ---
 

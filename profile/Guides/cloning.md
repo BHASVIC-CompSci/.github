@@ -1,4 +1,4 @@
-*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Checking Out](checkingOut.md)*
+*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Checking Out](cloning.md)*
 
 ---
 
