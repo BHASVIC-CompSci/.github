@@ -1,4 +1,4 @@
-[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Making a Repository](makingRepo.md)
+[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Making a Repository](makingRepo.md)*
 
 # Making a Repository
 
@@ -25,4 +25,5 @@ Follow this guide carefully to help you make your repository. You'll only need t
 
 ## Tutorial
 
-![Making a repository](../Media/makingRepo.gif)
+https://github.com/user-attachments/assets/3af95e87-496b-45dd-9dae-aae27f680517
+
