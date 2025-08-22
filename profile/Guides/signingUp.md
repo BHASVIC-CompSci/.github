@@ -13,6 +13,10 @@ Watch the following video and make sure to follow it carefully. Skipping a step 
 
 Make sure your username is in the correct format of BHASVIC-*your username* e.g. `BHASVIC-VincentVanGogh22`
 
+The reason why you should follow the naming scheme is that a script is periodically run, to ensure that all repositorys follow the correct naming scheme, and all repositorys/users that dont follow the naming scheme are deleted and removed from the organisation respectivly.
+
+So to ensure your account and repositorys' are not caught up in the automatic cleaning please follow the naming scheme accurately.
+
 
 https://github.com/user-attachments/assets/8af2e662-d4aa-410c-acf4-5382a940a03c
 
