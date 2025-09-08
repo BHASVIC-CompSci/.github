@@ -1,7 +1,8 @@
-## Hi there 👋
-## Gitting good at Github
+## Github Guides
 
-Welcome to the BHASVIC computer science org, remember to sign in to view your files :D
+Welcome to the BHASVIC computer science org, remember to sign in to view your files
+
+Use the guides below whilst you're still learning github and refer to them whenever you're doing a task to make sure it goes correctly
 
 <img align="right" src="https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Media/githubFlowchart.png">
 
