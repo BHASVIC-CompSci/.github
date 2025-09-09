@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/8af2e662-d4aa-410c-acf4-5382a940a03c
 
 (https://youtu.be/jk9GZQeyiZI "Youtube Video")
 
+After doing all other steps e.g. making your account and naming yourself go and click on the ORG invite again as it occasionally fails if you have not already made and logged into your account.
+
 #### Installing github desktop
 We'll be using github desktop while in college, whilst you can integrate it with a range of IDEs we request you use github desktop and that's the software we'll support you with.
 
