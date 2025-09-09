@@ -7,7 +7,7 @@ You might need to change your username at some point, for example if you didn't 
 
 If you need to do it follow the steps below. Be careful as github as both a **display name** and **username** which are different, make sure you're changing the correct one.
 
-Make sure your username is in the correct format of BHASVIC-*your username* including the shorthand year so 2025 > 25 e.g. Vincent Van Gogh would be `BHASVIC-VincentVanGogh22`
+Make sure your username is in the correct format of BHASVIC-*your username* followed by the shorthand year so 2025 > 25 e.g. Vincent Van Gogh would be `BHASVIC-VincentVanGogh22`
 
 ### What to do
 1. Open your settings by clicking your profile picture in the top right then selecting settings
