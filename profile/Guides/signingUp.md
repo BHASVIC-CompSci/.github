@@ -11,7 +11,8 @@ To use github you'll need to create an account using your bhasvic email and join
 #### Creating your account
 Watch the following video and make sure to follow it carefully. Skipping a step can make everything go wrong. You'll need to have been sent an invite first, don't try to set up before your teacher has told you to do so.
 
-Make sure your username is in the correct format of BHASVIC-*your username* followed by the shorthand year you started e.g. Finley Palmer `BHASVIC-FinleyPalmer25`
+Make sure your username is in the correct format of BHASVIC-*your username* followed by the shorthand year you started 
+e.g. if your name is John Doe and you started in 2025 your username would be `BHASVIC-JohnDoe25`
 
 The reason why you should follow the naming scheme is that a script is periodically run to ensure that all repositorys and users follow the correct naming scheme, and the repositorys/users that dont follow the naming scheme are removed from the organisation.
 
