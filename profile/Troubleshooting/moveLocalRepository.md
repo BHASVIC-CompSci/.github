@@ -7,5 +7,5 @@ If you have accidentally cloned to the wrong folder, say not your user documents
 
 ### Transferring to your college account
 1. Find the folder your repository is stored in, on github desktop there's an option you can click to "Show in explorer" to find it
-2. Copy and paste the entire folder to a new location
+2. Cut and paste the entire folder to a new location
 3. Check github desktop, if it's worked it'll not show any changes and will work as it did before
