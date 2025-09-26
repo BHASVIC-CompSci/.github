@@ -12,4 +12,9 @@ Make sure your username is in the correct format of BHASVIC-*your username* foll
 ### What to do
 1. Open your settings by clicking your profile picture in the top right then selecting settings
 2. Select *Account* on the left hand side
-3. The first option is change username, it'll give lots of serious warnings about this causing problems. It won't cause any for you so don't worry about these
+3. The first option is change username, it'll give lots of serious warnings about this causing problems. It might cause issues with github assignments but you wont lose any data so it can be fixed.
+
+
+### FAQ
+1. Its not your name your changing but your username. e.g. when you first go onto your profile it has a name section but you actually want to change your username what is done under the Account section.
+
