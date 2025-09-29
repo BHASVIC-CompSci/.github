@@ -18,3 +18,18 @@ Make sure your username is in the correct format of BHASVIC-*your username* foll
 ### FAQ
 1. Its not your name your changing but your username. e.g. when you first go onto your profile it has a name section but you actually want to change your username what is done under the Account section.
 
+
+### Github Classroom Username Issues
+
+After changing your Username it can cause issues with already accepted GitHub Classroom assignments.
+This can be fixed by following the below steps.
+1. Download the repository from your assignments onto the computer and copy it somewhere temporary
+2. Rename your Username by following the base guide
+3. Have your teacher delete the GitHub Classroom repository's
+4. Have your teacher unlink your Github Classroom account
+5. Re-Accept the assignments and they will create new blank repostiorys
+6. Clone the new repository's to your PC
+7. Copy your old repository's to the newly cloned repository
+8. Commit and push the new repository's
+9. Done
+
