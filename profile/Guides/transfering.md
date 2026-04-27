@@ -34,4 +34,4 @@ https://github.com/user-attachments/assets/7a17a68c-0831-4311-a305-f66a6993d2e6
 
 ### Scribe guide
 
-<iframe src="https://scribehow.com/embed/Transferring_Ownership_Of_A_GitHub_Repository__ZFyBTJp8QVGmMq-CQ9l5Tg" width="640" height="551" allow="fullscreen" style="aspect-ratio: 1 / 1; border: 0; min-height: 480px"></iframe>
+https://scribehow.com/embed/Transferring_Ownership_Of_A_GitHub_Repository__ZFyBTJp8QVGmMq-CQ9l5Tg
