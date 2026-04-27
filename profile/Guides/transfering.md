@@ -1,6 +1,6 @@
 *[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Transfering](transfering.md)*
 
-## Transfering repositories on Github
+## Transferring repositories on Github
 
 ### Why do you need to transfer a repository?
 
