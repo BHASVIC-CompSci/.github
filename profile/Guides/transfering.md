@@ -30,7 +30,7 @@ Transfering a repository from BHASVIC-JohnDoe26 to just JohnDoe2020 (a personal 
 
 ### Video guide
 
-
+https://github.com/user-attachments/assets/7a17a68c-0831-4311-a305-f66a6993d2e6
 
 ### Scribe guide
 
