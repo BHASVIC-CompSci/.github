@@ -1,4 +1,4 @@
-*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Renaming](renaming.md)*
+*[Home](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/README.md) > [Transfering](transfering.md)*
 
 ## Transfering repositories on Github
 
