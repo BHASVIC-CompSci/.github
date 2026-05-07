@@ -20,7 +20,7 @@ Use the guides below whilst you're still learning github and refer to them whene
 - [Renaming](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/renaming.md)
 - [Rolling back](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/rollingBack.md)
 - [.gitignore](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/gitignore.md)
-- [Transferring A Repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/transfering.md)
+- [Transferring a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/transfering.md)
 
 
 ### A1 - Using Github for C
