@@ -9,6 +9,7 @@ Use the guides below whilst you're still learning github and refer to them whene
 ### Intro
 - [What is github?](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/whatIsGithub.md)
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
+- [Signing up to CS++](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/CSPP.md)
 - [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
 
 
