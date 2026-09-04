@@ -11,7 +11,7 @@ Please make sure to read through the other sections of the guide to understand G
 
 
 ### Setting up Github for C First Time - New Folder without Existing Files
-1. [Create your repository](makingRepo.md) Go to the CS++ website to find your C Chapter assignments and then click the Repo link for the chapter you want
+1. Go to the CS++ website to find your C Chapter assignments and then click the Repo link for the chapter you want
 2. [Clone](cloning.md) the repository using github desktop, save it somewhere in your user directory into a **new folder** e.g. `C:\Users\Ben\Computer Science\C Chapter 1`, this doesn't need to be named the same name as your repository
 3. Open the Repository in CLion and click fix -> Configure CMake list -> Create CMake list and selecting the Main C file 
 4. [Commit and Publish](pushing.md) it, this is called **Publish** rather than push the first time but works in the same way
