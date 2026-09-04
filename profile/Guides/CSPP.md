@@ -27,11 +27,13 @@ This guide provides the steps on how to join your designated CS++ classroom and 
 
 ![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2026-08-28/ff2681ff-c1e6-43c7-b6cc-0ddf641f166b/action-b8e5696dd7b64e2183c3c4cf41537d63_1ecaeb707e644d92ab868ef8891d6410_text_export.jpeg)
 
+<hr>
 
 3\. Open your classes team
 
 ![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2026-08-28/7b24bb00-ab42-44b6-800d-6e4a6df5b16c/action-1b5ef11816e64db5bd32c8502f484e3d_dae4e60fb48a45c288a18bbd437f1bf3_text_export.jpeg)
 
+<hr>
 
 4\. Click on the provided CS++ classroom link
 
