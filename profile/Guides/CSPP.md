@@ -17,7 +17,6 @@ If you need any help please ask your teacher.
 ##### Embedded Guide
 
 # How to join CS++ Classroom
-#### [Made by Finley Palmer with Scribe](https://scribehow.com/o/FOFPGUGZS8qiZP9Vsrzpxg/viewer/How_to_join_CS_Classroom__HOs6W3IASy29uW3FmmnDow)
 This guide provides the steps on how to join your designated CS++ classroom and connect your Github account
 
 1\. Open Teams
