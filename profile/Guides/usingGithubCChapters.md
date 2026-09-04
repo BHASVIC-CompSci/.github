@@ -107,7 +107,7 @@ Learn the step-by-step process for connecting your account, cloning a repository
 ![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2026-09-03/be7fe201-93b4-4dc0-a51c-0d1a4d27a27d/sps-redacted-73b454f977e9489a8381905a71adc62c_70b739a012e94adfa95c0700083b397f_text_export.jpeg)
 
 
-15\. Select the wanted repository and click Clone
+15\. Select the wanted repository and click Clone - make sure the local path (folder it's being cloned to) isn't in OneDrive
 
 ![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2026-09-03/35e66d8f-65e4-482e-a5d9-887a719b58ea/sps-redacted-c595c15af6744ee2a6aef1a9911a2074_24459eaafe114b6287f91bb839bfa224_text_export.jpeg)
 
