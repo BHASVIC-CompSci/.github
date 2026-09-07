@@ -11,7 +11,7 @@ Use the guides below whilst you're still learning github and refer to them whene
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
 - [Signing up to CS++](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/CSPP.md)
 - [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
-- [Using Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
+- [Using CS++ Classroom / Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
   
 
 ### How To Guides
