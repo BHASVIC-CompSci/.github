@@ -11,7 +11,8 @@ Use the guides below whilst you're still learning github and refer to them whene
 - [Signing up](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/signingUp.md)
 - [Signing up to CS++](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/CSPP.md)
 - [Features to not use](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/featuresNotUse.md)
-
+- [Using Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
+  
 
 ### How To Guides
 - [Making a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/makingRepo.md)
@@ -22,10 +23,6 @@ Use the guides below whilst you're still learning github and refer to them whene
 - [Rolling back](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/rollingBack.md)
 - [.gitignore](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/gitignore.md)
 - [Transferring a repo](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/transfering.md)
-
-
-### A1 - Using Github for C
-- [Using Github for C Chapters](https://github.com/BHASVIC-CompSci/.github/blob/main/profile/Guides/usingGithubCChapters.md)
 
 
 ### Troubleshooting
