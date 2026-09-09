@@ -168,6 +168,8 @@ Please make sure to read through the other sections of the guide to understand G
 
 <hr>
 
+<!--
+
 23\. Open the main C file
 
 ![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2026-09-03/a9a15fb6-d352-44a2-a952-73cf84031f1b/sps-redacted-66ce108859a942c9892b3dc35fb74e97_888ab5f73a22473382ae7a081e8b7f04_text_export.jpeg)
@@ -205,6 +207,8 @@ Please make sure to read through the other sections of the guide to understand G
 <hr>
 
 29\. Run Main.c
+
+-->
 
 ![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2026-09-03/818f6eae-16d2-4d83-be34-9a628a3b8e1f/sps-redacted-cae900347cc24ad2a691cd290b00634c_549876c1af1b45fb9c3434a670cd7ca1_text_export.jpeg)
 
