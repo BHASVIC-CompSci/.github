@@ -12,9 +12,8 @@ Please make sure to read through the other sections of the guide to understand G
 
 ### Setting up Github for C First Time - New Folder without Existing Files
 1. Go to the CS++ website to find your C Chapter assignments and then click the Repo link for the chapter you want
-2. [Clone](cloning.md) the repository using github desktop, save it somewhere in your user directory into a **new folder** e.g. `C:\Users\Ben\Computer Science\C Chapter 1`, this doesn't need to be named the same name as your repository
-3. Open the Repository in CLion and click fix -> Configure CMake list -> Create CMake list and selecting the Main C file 
-4. [Commit and Publish](pushing.md) it, this is called **Publish** rather than push the first time but works in the same way
+2. [Clone](cloning.md) the repository using github desktop, save it somewhere in your user directory into a **new folder** e.g. `C:\Users\Ben\Computer Science\C Chapter 1`, this doesn't need to be named the same name as your repository - make sure it's not saved into OneDrive
+3. [Commit and Publish](pushing.md) it, this is called **Publish** rather than push the first time but works in the same way
 
 
 ### Using Github in Class for C
@@ -23,13 +22,6 @@ Please make sure to read through the other sections of the guide to understand G
 3. Do your work
 4. [Commit and push](pushing.md) it at the end of the lesson
 
-
-### Scribe Guide
-https://scribehow.com/o/FOFPGUGZS8qiZP9Vsrzpxg/viewer/How_To_Clone_A_GitHub_Repository_Using_GitHub_Desktop__dZR_az1dRm-pGRuWeQ-Zuw
-
-# How To Clone A GitHub Repository Using GitHub Desktop
-#### [Made by Finley Palmer with Scribe](https://scribehow.com/o/FOFPGUGZS8qiZP9Vsrzpxg/viewer/How_To_Clone_A_GitHub_Repository_Using_GitHub_Desktop__dZR_az1dRm-pGRuWeQ-Zuw)
-Learn the step-by-step process for connecting your account, cloning a repository, and locating your project files locally. This guide simplifies the integration between your browser and the GitHub Desktop application.
 
 1\. Open Microsoft Edge
 
