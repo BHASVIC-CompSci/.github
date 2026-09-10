@@ -29,6 +29,11 @@ Please make sure to read through the other sections of the guide to understand G
 4. Click activate
 5. Login using github
 
+### Using CLion to open cloned repository
+1. Click new project on Clion
+2. Click C Executable not C++
+3. Select the folder where you cloned the repository too
+4. Open from existing sources
 
 1\. Open Microsoft Edge
 
