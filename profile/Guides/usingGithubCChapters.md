@@ -22,6 +22,13 @@ Please make sure to read through the other sections of the guide to understand G
 3. Do your work
 4. [Commit and push](pushing.md) it at the end of the lesson
 
+### Licensing CLion
+1. Click activate paid license
+2. Click License server
+3. Paste in "https://bhasvic.fls.jetbrains.com"
+4. Click activate
+5. Login using github
+
 
 1\. Open Microsoft Edge
 
