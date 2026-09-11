@@ -33,6 +33,8 @@ Please make sure to read through the other sections of the guide to understand G
 1. Click open project on Clion
 2. Select the folder where you cloned the repository too
 3. Open from existing sources
+4. if you add a new C executable then click <img width="61" height="32" alt="image" src="https://github.com/user-attachments/assets/e5c642ce-97b2-4ad7-8282-7ada79803a12" />
+
 
 1\. Open Microsoft Edge
 
